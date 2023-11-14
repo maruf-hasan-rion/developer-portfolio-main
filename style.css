@@ -1,0 +1,145 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.span-color {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+.dream-area {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+h2 {
+    font-size: 40px;
+    margin-left: 5%;
+}
+
+.experience-area {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-area h3 {
+    color: orange;
+}
+
+.experience-item {
+    box-shadow: 5px 7px 40px gray;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 5%;
+    padding-left: 3%;
+    border-radius: 10px;
+}
+
+#full-stack {
+    border-left: 7px solid tomato;
+}
+
+#baby-web {
+    border-left: 7px solid blue;
+
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.experience-item1 {
+    box-shadow: 5px 7px 40px gray;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 3%;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(228, 228, 96), rgb(226, 119, 119));
+}
+
+.middle1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 7%;
+    padding: 5%;
+    background-color: blueviolet;
+
+
+
+}
+
+.E {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.p {
+    text-align: center;
+    margin-bottom: 50px;
+    justify-content: center;
+
+}
+
+.input {
+    background-image: linear-gradient(orange, tomato);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.input1 {
+    width: 30%;
+    padding: 15px 30px;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+footer p {
+    text-align: center;
+}
